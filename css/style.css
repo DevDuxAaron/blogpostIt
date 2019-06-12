@@ -4,10 +4,12 @@ h1{
 }
 p{
     font-size: 13px;
-    color: deeppink;
+    color: black;
     font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
 }
 .contenedor{
     border: 5px solid rgb(0, 183, 255);
     text-align: center; 
+    background-color: aqua;
 }
