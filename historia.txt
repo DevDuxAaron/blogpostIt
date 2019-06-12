@@ -1,6 +1,5 @@
 
-Este será mi diario o registro
-
+Este es mi diario o registro de mi avance en Git mi avance en Git
 O al menos el intento de una
 
 Linea de juego
