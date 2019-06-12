@@ -7,3 +7,7 @@ p{
     color: deeppink;
     font-family: 'Courier New', Courier, monospace;
 }
+.contenedor{
+    border: 5px solid rgb(0, 183, 255);
+    text-align: center; 
+}
