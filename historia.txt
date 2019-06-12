@@ -1,12 +1,9 @@
 
-Este es mi diario o registro de mi avance en Git mi avance en Git
-O al menos el intento de una
+Este es mi registro de mi avance en Git
 
 Linea de juego
 
 Este es un archivo de biografía
-
-O al menos el intento de una
 
 Linea de juego cambiando de contenido
 
