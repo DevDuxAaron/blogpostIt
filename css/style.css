@@ -1,5 +1,5 @@
 h1{
-    color: deeppink;
+    color: ghostwhite;
     font-family: 'Courier New', Courier, monospace;
 }
 p{
@@ -11,5 +11,16 @@ p{
 .contenedor{
     border: 5px solid rgb(0, 183, 255);
     text-align: center; 
-    background-color: aqua;
+}
+.cabecera{
+    text-align: center;
+    color: whitesmoke;
+    background-color: darkblue;
+    -webkit-box-shadow: -15px 7px 38px 0px rgba(0,0,0,0.73);
+    -moz-box-shadow: -15px 7px 38px 0px rgba(0,0,0,0.73);
+    box-shadow: -15px 7px 38px 0px rgba(0,0,0,0.73);
+}
+.cabecera p{
+    color: white;
+    font-size: 15px;
 }
